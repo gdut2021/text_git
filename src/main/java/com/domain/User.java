@@ -6,4 +6,6 @@ public class User {
     String email;
     String name;
     String pname;
+    String ab;
+    String abc;
 }

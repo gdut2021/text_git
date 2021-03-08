@@ -5,5 +5,5 @@ public class User {
     String password;
     String email;
     String name;
-    String 1;
+    String pname;
 }
